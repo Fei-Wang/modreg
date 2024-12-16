@@ -1,10 +1,10 @@
 [project]
 name = "modreg"
-version = "0.1.0"
+version = "0.1.1"
 description = "Modular Registry"
 readme = "README.md"
 authors = [{ name = "Fei-Wang", email = "fei.comm@icloud.com" }]
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = []
 
